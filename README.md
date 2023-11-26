@@ -27,9 +27,10 @@ Alternate Hypothesis : The location of a sector has an impact on the amount of f
 
 # Conclusion
 
-
+From the analysis we find out that location has no impact on the amount of start of funding because Bangalore has the highest sector location 
 
 
 
 
 # Recommendation
+From our visualization we recommend to the new investors that location of the start up does not matter that they can invest any where in Indian ecosystem
